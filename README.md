@@ -1,5 +1,5 @@
-# 👋 Hello:
-I'm Muhammad Hanzala, a Professional Full Stack Web Developer.<br>I build smart and modern web apps that are easy to use, can grow with your needs, and solve real problems. I create custom solutions that mix new ideas, high quality, and a professional approach to help clients reach their goals and grow their business. 
+# 👋 Hello!
+I'm <h3>Muhammad Hanzala</h3>, a Professional Full Stack Web Developer.<br>I build smart and modern web apps that are easy to use, can grow with your needs, and solve real problems. I create custom solutions that mix new ideas, high quality, and a professional approach to help clients reach their goals and grow their business. 
 
 
 # 💻 Skills:
