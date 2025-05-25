@@ -1,5 +1,6 @@
 # 👋 Hello!
-I'm Muhammad Hanzala, a Full Stack Web Developer.<br>I build smart and modern web apps that are easy to use, can grow with your needs, and solve real problems. I create custom solutions that mix new ideas, high quality, and a professional approach to help clients reach their goals and grow their business. 
+I'm Muhammad Hanzala, an aspiring Web Developer currently learning the MERN stack, along with Data Science, Machine Learning, Deep Learning, and Natural Language Processing.
+I'm passionate about creating modern web applications and exploring how technology can be used to solve real-world challenges. I'm continuously growing my skills and working on practical projects to apply what I’ve learned in meaningful ways. 
 
 
 # 💻 Skills:
