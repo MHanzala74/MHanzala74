@@ -1,6 +1,5 @@
 # 👋 Hello!
-I'm Muhammad Hanzala, an aspiring Web Developer currently learning the MERN stack, along with Data Science, Machine Learning, Deep Learning, and Natural Language Processing.
-I'm passionate about creating modern web applications and exploring how technology can be used to solve real-world challenges. I'm continuously growing my skills and working on practical projects to apply what I’ve learned in meaningful ways. 
+I’m a Computer Science student with a strong foundation in full-stack development and a keen interest in AI/ML innovation. As a MERN Stack Developer, I specialize in building scalable web applications using MongoDB, Express.js, React, and Node.js, delivering seamless user experiences with robust backend systems 
 
 
 # 💻 Skills:
