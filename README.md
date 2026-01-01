@@ -1,5 +1,5 @@
 # 👋 Hello!
-I’m a Computer Science student with a strong foundation in full-stack development and a keen interest in AI/ML innovation. As a MERN Stack Developer, I specialize in building scalable web applications using MongoDB, Express.js, React, and Node.js, delivering seamless user experiences with robust backend systems 
+I’m a Computer Science student with a strong interest in Artificial Intelligence and Machine Learning. As an AI Developer, I focus on building intelligent systems such as LLM-powered applications, Retrieval-Augmented Generation (RAG) pipelines, and AI-driven assistants. I enjoy working with embeddings, vector databases, and modern AI frameworks to create practical, real-world solutions.
 
 
 # 💻 Skills:
